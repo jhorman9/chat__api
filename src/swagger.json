@@ -2,7 +2,7 @@
     "openapi": "3.0.0",
     "info": {
       "title": "chat-API",
-      "contact": "jhosmita90@gmail.com",
+      "contact": "jhosmita9@gmail.com",
       "version": "1.0"
     },
     "paths": {
@@ -27,8 +27,8 @@
                       "example": {
                         "firstname": "Jhorman",
                         "lastname": "Nieto",
-                        "email": "jhosmita9@gmail.com",
-                        "password": "Jhorman9"
+                        "email": "josenieto123@gmail.com",
+                        "password": "Jhorman9*Nieto"
                       }
                     }
                   ]
@@ -36,8 +36,8 @@
                 "example": {
                   "firstname": "Jose",
                   "lastname": "Nieto",
-                  "email": "josenieto12@gmail.com",
-                  "password": "Jhorman9"
+                  "email": "josenieto123@gmail.com",
+                  "password": "Jhorman9*Nieto"
                 }
               }
             },
